@@ -1,0 +1,11 @@
+* {
+    color:white;
+    font-family: Roboto, Geneva, Tahoma, sans-serif;
+}
+
+#cont {
+    font-size: 30vw;
+}
+body {
+    background-color: rgb(47, 52, 79);
+}
